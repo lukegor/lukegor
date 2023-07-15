@@ -102,7 +102,7 @@ Here are some ideas to get you started:
       width="48"
       height="48"
       alt="Spring">
-      <br /><strong>Spring</strong>
+      <br /><strong>Spring & Spring Boot</strong>
     </td>
   </tr>
 
