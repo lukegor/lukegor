@@ -98,7 +98,7 @@ Here are some ideas to get you started:
       <br /><strong>R</strong>
     </td>
     <td align="center" height="108" width="108">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Spring_Framework_Logo_2018.svg"
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKv3NF172jmJj6A20BTyi7K9W1gybX6ymf3U01sXCipg&s"
       width="48"
       height="48"
       alt="Spring">
