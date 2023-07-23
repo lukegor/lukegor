@@ -18,7 +18,11 @@ Here are some ideas to get you started:
 <p align="center">
   📫 How to reach me: <a href="mailto:lukaszgorski02@gmail.com">lukaszgorski02@gmail.com</a>
   <br>
-  🔗 LinkedIn: <a href="https://linkedin.com/in/lukasz-gorski-lukegor/">My LinkedIn Profile</a>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png"
+    width="20"
+    height="20"
+    alt="LinkedIN">
+  LinkedIn: <a href="https://linkedin.com/in/lukasz-gorski-lukegor/">My LinkedIn Profile</a>
 </p>
 
 <p align="center">
