@@ -33,62 +33,13 @@ Here are some ideas to get you started:
 
 # Tech Stack:
 
-<img src="https://skillicons.dev/icons?i=java,mysql,sql,r,cpp,git,github&perline=10" />
+<img src="https://skillicons.dev/icons?i=java,mysql,r,cpp,git,github&perline=10" />
 
 
 
 # Technologies:
 
-<table>
-  <tr>
-    <td align="center" height="108" width="108">
-      <strong style='font-size: 20px'>I know quite well</strong>
-    </td>
-     <td align="center" height="108" width="108">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
-        width="48"
-        height="48"
-        alt="Java">
-        <br /><strong>Java</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png"
-      width="48"
-      height="48"
-      alt="MySQL">
-      <br /><strong>MySQL</strong>
-    </td>
-    <td align="center" height="108" width="108">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
-        width="48"
-        height="48"
-        alt="SQL">
-        <br /><strong>SQL</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img src="https://cdn.jsdelivr.net/npm/@programming-languages-logos/r@0.0.0/r.png"
-      width="48"
-      height="48"
-      alt="R">
-      <br /><strong>R</strong>
-    </td>
-    <td align="center" height="108" width="108">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"
-        width="48"
-        height="48"
-        alt="C++">
-        <br /><strong>C++</strong>
-    </td> 
-    <td align="center" height="108" width="108">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
-        width="48"
-        height="48"
-        alt="GIT">
-        <br /><strong>GIT</strong>
-    </td>
-    
-  </tr>
-  
+<table>  
   <tr>
     <td align="center" height="108" width="108">
       <strong style='font-size: 20px'>I am learning</strong>
