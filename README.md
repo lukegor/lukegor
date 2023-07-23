@@ -110,11 +110,11 @@ Here are some ideas to get you started:
     <td align="center" height="108" width="108">
       <strong style='font-size: 20px'>I want to learn</strong>
     <td align="center" height="108" width="108">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
       width="48"
       height="48"
-      alt="PostgreSQL">
-      <br /><strong>PostgreSQL</strong>
+      alt="MongoDB">
+      <br /><strong>MongoDB</strong>
     </td>
   </tr>
   
