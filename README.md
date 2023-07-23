@@ -31,6 +31,12 @@ Here are some ideas to get you started:
     Currently studying Computer Science in Warsaw.
 </p>
 
+# Tech Stack:
+
+<img src="https://skillicons.dev/icons?i=java,mysql,sql,r,cpp,git,github&perline=10" />
+
+
+
 # Technologies:
 
 <table>
