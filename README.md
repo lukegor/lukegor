@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 <img src="https://skillicons.dev/icons?i=java,mysql,r,cpp,git,github&perline=10" />
 
-
+<br />
 
 # Other Technologies:
 
