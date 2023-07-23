@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 
 
-# Technologies:
+# Other Technologies:
 
 <table>  
   <tr>
