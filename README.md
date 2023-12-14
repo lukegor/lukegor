@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 # Tech Stack:
 
-<img src="https://skillicons.dev/icons?i=java,mysql,r,cpp,git,github&perline=10" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,java,mysql,git,github&perline=10" />
 
 # Other Technologies:
 
@@ -50,11 +50,11 @@ Here are some ideas to get you started:
         <br /><strong>C#</strong>
     </td>
     <td align="center" height="108" width="108">
-      <img src="https://cdn.jsdelivr.net/npm/@programming-languages-logos/r@0.0.0/r.png"
+      <img src="https://broadwayinfosys.com/blog/wp-content/uploads/2019/03/1_K8-NHsRRBuUpuzphdkZ6MQ.png"
       width="48"
       height="48"
-      alt="R">
-      <br /><strong>R</strong>
+      alt="Spring">
+      <br /><strong>ASP .NET Core</strong>
     </td>
     <td align="center" height="108" width="108">
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKv3NF172jmJj6A20BTyi7K9W1gybX6ymf3U01sXCipg&s"
@@ -75,7 +75,7 @@ Here are some ideas to get you started:
       alt="MongoDB">
       <br /><strong>MongoDB</strong>
     </td>
-  </tr>
+  </tr>i
   
   <tr>
     <td align="center" height="108" width="108">
@@ -87,6 +87,13 @@ Here are some ideas to get you started:
       height="48"
       alt="Python">
       <br /><strong>Python</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"
+      width="48"
+      height="48"
+      alt="Cpp">
+      <br /><strong>C++</strong>
     </td>
   </tr>
 </table>
