@@ -58,6 +58,20 @@ Here are some ideas to get you started:
       alt="ASP .NET Core">
       <br /><strong>ASP .NET Core</strong>
     </td>
+    <td align="center" height="108" width="108">
+      <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/javascript/javascript-original.svg"
+      width="48"
+      height="48"
+      alt="JS">
+      <br /><strong>JavaScript</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img src="https://cdn.jsdelivr.net/npm/devicon-2.2@2.2.0/icons/jquery/jquery-original.svg"
+      width="48"
+      height="48"
+      alt="jQuery">
+      <br /><strong>jQuery</strong>
+    </td>
   </tr>
 
   <tr>
