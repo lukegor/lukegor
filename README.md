@@ -52,7 +52,7 @@ Here are some ideas to get you started:
       <strong style='font-size: 20px'>I am learning</strong>
     </td>
     <td align="center" height="108" width="108">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"
+      <img src="![aspnetcore-logo](https://github.com/user-attachments/assets/eb931752-aee4-4d90-824a-8d8f15ce2f56)"
       width="48"
       height="48"
       alt="ASP .NET Core">
