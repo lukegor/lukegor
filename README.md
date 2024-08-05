@@ -79,6 +79,8 @@ Here are some ideas to get you started:
       alt="jQuery">
       <br /><strong>jQuery</strong>
     </td>
+    <td align="center" height="108" width="108">
+    </td>
   </tr>
 
   <tr>
@@ -98,6 +100,8 @@ Here are some ideas to get you started:
       height="48"
       alt="Spring">
       <br /><strong>Spring</strong>
+    </td>
+    <td align="center" height="108" width="108">
     </td>
     <td align="center" height="108" width="108">
     </td>
@@ -136,6 +140,8 @@ Here are some ideas to get you started:
       height="48"
       alt="R">
       <br /><strong>R</strong>
+    </td>
+    <td align="center" height="108" width="108">
     </td>
   </tr>
 </table>
