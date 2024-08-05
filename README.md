@@ -26,15 +26,15 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-    🔭 Currently studying Computer Science in Warsaw.
+    🔭 Currently studying Information Technology in Warsaw.
     <br>
-    🌱 I'm passionate about learning new technologies and constantly improving my skills.
+    ⭐ I love working with C# .NET and Java
 </p>
 
 # 🚀 Tech Stack:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,mysql,git,github,visualstudio&perline=10" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,mysql,cpp,git,github,visualstudio&perline=15" />
   <img src="https://eternitech.com/wp-content/uploads/2023/01/WPF-logo.png" width="48" height="48" alt="WPF">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg"
       width="48"
@@ -57,6 +57,13 @@ Here are some ideas to get you started:
       height="48"
       alt="ASP .NET Core">
       <br /><strong>ASP .NET Core</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"
+      width="48"
+      height="48"
+      alt="Cpp">
+      <br /><strong>C++</strong>
     </td>
     <td align="center" height="108" width="108">
       <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/javascript/javascript-original.svg"
@@ -89,8 +96,12 @@ Here are some ideas to get you started:
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"
       width="48"
       height="48"
-      alt="Spring & Spring Boot">
-      <br /><strong>Spring & Spring Boot</strong>
+      alt="Spring">
+      <br /><strong>Spring</strong>
+    </td>
+    <td align="center" height="108" width="108">
+    </td>
+    <td align="center" height="108" width="108">
     </td>
   </tr>
   
@@ -125,13 +136,6 @@ Here are some ideas to get you started:
       height="48"
       alt="R">
       <br /><strong>R</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"
-      width="48"
-      height="48"
-      alt="Cpp">
-      <br /><strong>C++</strong>
     </td>
   </tr>
 </table>
