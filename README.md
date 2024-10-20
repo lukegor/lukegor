@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 # 🚀 Tech Stack:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,mysql,cpp,git,github,visualstudio&perline=15" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,mysql,cpp,git,github,html,js,visualstudio&perline=15" />
   <img src="https://eternitech.com/wp-content/uploads/2023/01/WPF-logo.png" width="48" height="48" alt="WPF">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg"
       width="48"
@@ -59,13 +59,6 @@ Here are some ideas to get you started:
       <br /><strong>ASP .NET Core</strong>
     </td>
     <td align="center" height="108" width="108">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"
-      width="48"
-      height="48"
-      alt="Cpp">
-      <br /><strong>C++</strong>
-    </td>
-    <td align="center" height="108" width="108">
       <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/javascript/javascript-original.svg"
       width="48"
       height="48"
@@ -73,11 +66,13 @@ Here are some ideas to get you started:
       <br /><strong>JavaScript</strong>
     </td>
     <td align="center" height="108" width="108">
-      <img src="https://cdn.jsdelivr.net/npm/devicon-2.2@2.2.0/icons/jquery/jquery-original.svg"
+      <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/react/react-original.svg"
       width="48"
       height="48"
-      alt="jQuery">
-      <br /><strong>jQuery</strong>
+      alt="React">
+      <br /><strong>React</strong>
+    </td>
+    <td align="center" height="108" width="108">
     </td>
     <td align="center" height="108" width="108">
     </td>
@@ -102,6 +97,11 @@ Here are some ideas to get you started:
       <br /><strong>Spring</strong>
     </td>
     <td align="center" height="108" width="108">
+      <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/typescript/typescript-original.svg"
+      width="48"
+      height="48"
+      alt="TS">
+      <br /><strong>TypeScript</strong>
     </td>
     <td align="center" height="108" width="108">
     </td>
@@ -121,18 +121,11 @@ Here are some ideas to get you started:
       <br /><strong>Python</strong>
     </td>
     <td align="center" height="108" width="108">
-      <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/html5/html5-original.svg"
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"
       width="48"
       height="48"
-      alt="html">
-      <br /><strong>HTML</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/javascript/javascript-original.svg"
-      width="48"
-      height="48"
-      alt="JS">
-      <br /><strong>JavaScript</strong>
+      alt="Cpp">
+      <br /><strong>C++</strong>
     </td>
     <td align="center" height="108" width="108">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg"
@@ -140,6 +133,8 @@ Here are some ideas to get you started:
       height="48"
       alt="R">
       <br /><strong>R</strong>
+    </td>
+    <td align="center" height="108" width="108">
     </td>
     <td align="center" height="108" width="108">
     </td>
