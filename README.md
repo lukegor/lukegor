@@ -104,8 +104,18 @@ Here are some ideas to get you started:
       <br /><strong>TypeScript</strong>
     </td>
     <td align="center" height="108" width="108">
+      <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/azure/azure-original.svg"
+      width="48"
+      height="48"
+      alt="Azure">
+      <br /><strong>Azure</strong>
     </td>
     <td align="center" height="108" width="108">
+      <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
+      width="48"
+      height="48"
+      alt="AWS">
+      <br /><strong>AWS</strong>
     </td>
   </tr>
   
